@@ -47,7 +47,7 @@ const Common = (props) => {
                                 </section>
                                 
                                 <section className="col-lg-6 order-1 order-lg-2 header-img">
-                                    <img className="img-fluid" src={props.imgsrc} ref={ImgMove.ref} alt="Common Image" />
+                                    <img className="img-fluid" src={props.imgsrc} ref={ImgMove.ref} alt="Common Design" />
                                 </section>
                             </section>
                         </section>
